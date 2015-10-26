@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2013\Projects\BinaryImageLib\BinaryImageLib\bin\Debug\BinaryImageLib.dll
+c:\users\alex\documents\visual studio 2013\Projects\BinaryImageLib\BinaryImageLib\bin\Debug\BinaryImageLib.pdb
+c:\users\alex\documents\visual studio 2013\Projects\BinaryImageLib\BinaryImageLib\obj\Debug\BinaryImageLib.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\BinaryImageLib\BinaryImageLib\obj\Debug\BinaryImageLib.dll
+c:\users\alex\documents\visual studio 2013\Projects\BinaryImageLib\BinaryImageLib\obj\Debug\BinaryImageLib.pdb
